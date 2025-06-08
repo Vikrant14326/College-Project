@@ -1,3 +1,10 @@
+# Demo Project
+
+
+https://github.com/user-attachments/assets/0854a87a-8e7f-4a37-9663-f8e2c255a7ca
+
+
+
 # 🏥 Medical X-ray Report Generator with RAG
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://python.org)

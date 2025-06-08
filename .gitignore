@@ -1,0 +1,5 @@
+.env
+myenv
+Data/faiss_index.bin
+Data\metadata.pkl
+Data\cxr_df.csv
